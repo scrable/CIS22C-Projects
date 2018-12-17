@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1460508732 source:f:\users\scrable\documents\deanza\cis22c\lab_1\list.cpp
+	<iostream>
+	"List.h"
+
+1460515837 f:\users\scrable\documents\deanza\cis22c\lab_1\list.h
+	<cstddef>
+
+1460438092 f:\users\scrable\documents\deanza\cis22c\lab_1\listtest.cpp
+	"List.h"
+
+1460508767 source:f:\users\scrable\documents\deanza\cis22c\lab_1\listtest.cpp
+	"List.h"
+	<iostream>
+
