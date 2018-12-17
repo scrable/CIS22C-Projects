@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1461440919 source:f:\users\scrable\documents\deanza\cis22c\git\lab_3\lab_3\queue.cpp
+	<iostream>
+	"Queue.h"
+
+1461441557 f:\users\scrable\documents\deanza\cis22c\git\lab_3\lab_3\queue.h
+	<string>
+	<iostream>
+	<cstddef>
+
+1461440918 source:f:\users\scrable\documents\deanza\cis22c\git\lab_3\lab_3\queuetest.cpp
+	<iostream>
+	"Queue.h"
+
+1461441405 source:f:\users\scrable\documents\deanza\cis22c\git\lab_3\lab_3\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1461441557 f:\users\scrable\documents\deanza\cis22c\git\lab_3\lab_3\stack.h
+	<string>
+	<cstddef>
+
+1461440919 source:f:\users\scrable\documents\deanza\cis22c\git\lab_3\lab_3\stacktest.cpp
+	<iostream>
+	"Stack.h"
+
+1461440919 source:f:\users\scrable\documents\deanza\cis22c\git\lab_3\lab_3\palindrome.cpp
+	"Queue.h"
+	"stack.h"
+	<iostream>
+	<fstream>
+	<string>
+

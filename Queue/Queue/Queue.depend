@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461439089 source:f:\users\scrable\documents\deanza\cis22c\git\queue\queue\queue.cpp
+	<iostream>
+	<cstdlib>
+	"Queue.h"
+
+1461429523 f:\users\scrable\documents\deanza\cis22c\git\queue\queue\queue.h
+	<string>
+	<iostream>
+	<cstddef>
+
+1461439165 source:f:\users\scrable\documents\deanza\cis22c\git\queue\queue\queuetest.cpp
+	<iostream>
+	"Queue.h"
+

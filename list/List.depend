@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1462481824 source:/home/scrable/Documents/Git/list/List.cpp
+	<iostream>
+	"List.h"
+
+1462812744 /home/scrable/Documents/Git/list/List.h
+	<cstddef>
+	<cstdlib>
+	<iostream>
+	<list>
+
+1462820120 source:/home/scrable/Documents/Git/list/ListTest.cpp
+
+1462812744 source:/home/scrable/Documents/Git/list/Stack.cpp
+	"Stack.h"
+
+1462487306 /home/scrable/Documents/Git/list/Stack.h
+	"List.h"
+	<iostream>
+	<cstddef>
+
+1462815443 source:/home/scrable/Documents/Git/list/StackTest.cpp
+	"Stack.h"
+	<iostream>
+

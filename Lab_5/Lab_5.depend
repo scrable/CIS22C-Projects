@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462918956 source:/home/scrable/Documents/Git/Lab_5/BSTTest.cpp
+	"BST.h"
+	<iostream>
+
+1462918845 /home/scrable/Documents/Git/Lab_5/BST.h
+	<cstddef>
+	<string>
+	<cstdlib>
+	<iostream>
+

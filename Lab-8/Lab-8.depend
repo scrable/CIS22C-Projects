@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1464645499 source:f:\users\scrable\documents\deanza\cis22c\git\lab-8\polynomial.cpp
+	"Polynomial.h"
+	<iomanip>
+
+1464645058 source:f:\users\scrable\documents\deanza\cis22c\git\lab-8\polynomialtest.cpp
+	<iostream>
+	"Polynomial.h"
+
+1464645499 f:\users\scrable\documents\deanza\cis22c\git\lab-8\polynomial.h
+	"List.h"
+	"Term.h"
+	<iostream>
+	<cstddef>
+
+1462562961 f:\users\scrable\documents\deanza\cis22c\git\lab-8\list.h
+	<cstddef>
+	<cstdlib>
+	<iostream>
+	<list>
+
+1464629554 f:\users\scrable\documents\deanza\cis22c\git\lab-8\term.h
+

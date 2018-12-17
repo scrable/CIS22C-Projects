@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1461432015 source:f:\users\scrable\documents\deanza\cis22c\git\stack\stack\stacktest.cpp
+	<iostream>
+	"Stack.h"
+
+1461429696 f:\users\scrable\documents\deanza\cis22c\git\stack\stack\stack.h
+	<string>
+	<cstddef>
+
+1461439337 source:f:\users\scrable\documents\deanza\cis22c\git\stack\stack\stack.cpp
+	"Stack.h"
+	<iostream>
+
